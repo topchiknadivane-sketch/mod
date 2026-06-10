@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "animstudio",
+    "name": "Anim Studio",
+    "description": "Animation Studio — spawn mobs, animate them, duplicate yourself, cinematic mode.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": ["AnimStudio"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
